@@ -1,0 +1,17 @@
+{
+  "name": "c",
+  "version": "1.0.0",
+  "description": "Just Clip board assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^1.0.1"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
