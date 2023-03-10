@@ -1,6 +1,13 @@
 const {
   deterministicPartitionKey,
 } = require("./deterministicPartitionKey_Refactored");
+
+/********************** To apply the test cases on refactored function just uncomment it and comment above import  ********************** 
+ const {
+   deterministicPartitionKey,
+ } = require("./deterministicPartitionKey");
+*/
+
 const crypto = require("crypto");
 
 describe("deterministicPartitionKey", () => {
